@@ -50,11 +50,11 @@ body {
   background-color:#281522;
   }
   
-  p {
-    color: #DEE0CC;
-    font-family: 'Inter', sans-serif;
-    line-height: 35px;
-    font-size: 20px;
+p {
+  color: #DEE0CC;
+  font-family: 'Inter', sans-serif;
+  line-height: 35px;
+  font-size: 20px;
   }
   
 h1 {
@@ -76,22 +76,22 @@ h1 {
   line-height: 0.1;
   }
   
-  button {
-    cursor: pointer;
-    color: #281522;
-    background-color: #DEE0CC;
-    height: 40px;
-    width: 218px;
-    border-radius: 20px;
-    font-family: 'Inter', sans-serif;
-    font-size: 20px;
-    letter-spacing: 3px;
-    transition: all 0.125s ease;
+button {
+  cursor: pointer;
+  color: #281522;
+  background-color: #DEE0CC;
+  height: 40px;
+  width: 218px;
+  border-radius: 20px;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  letter-spacing: 3px;
+  transition: all 0.125s ease;
   }
   
-  button:hover {
-    background-color: #770024;
-    color: #DEE0CC;
+button:hover {
+  background-color: #770024;
+  color: #DEE0CC;
   }
   
 footer {
@@ -102,10 +102,10 @@ footer {
   width: 100%;
   }
 
-  footer ul {
-    display: flex;
-    padding: 40px; 
-    align-items: center;
+footer ul {
+  display: flex;
+  padding: 40px; 
+  align-items: center;
   }
   
 .foot {
